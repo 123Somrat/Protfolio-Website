@@ -3,8 +3,17 @@
      margin:0px;
      font-family: 'Work Sans', sans-serif;
 }
-.banner-details{
-      background-image: url(../images/banner1.png);
+.banner{
+      background-image: url("../images/banner1.png");
       width: 1600px;
-      height:808px
+      height:808px;
+      position:absolute
+}
+.banner-details{
+     position:relative;
+     margin:192px 283px 388px 792px;
+     font-weight: 700px;
+     font-size: 65px;
+     line-height: 76px;
+     text-align: right;
 }
