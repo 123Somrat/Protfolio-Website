@@ -3,3 +3,8 @@
      margin:0px;
      font-family: 'Work Sans', sans-serif;
 }
+.banner-details{
+      background-image: url(../images/banner1.png);
+      width: 1600px;
+      height:808px
+}
