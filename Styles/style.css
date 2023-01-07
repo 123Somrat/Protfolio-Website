@@ -127,3 +127,14 @@
      padding:70px 150px 30px 30px;
      line-height: 35px;
  }
+ .mindset-btn{
+     font-weight: 600px;
+     font-size: 20px;
+     line-height: 23px;
+     width: 160px;
+     height:64px;
+     border-radius: 5px;
+     background-color:#FFFFFF;
+     color:#F15B22;
+     margin-top: 10px;
+}
