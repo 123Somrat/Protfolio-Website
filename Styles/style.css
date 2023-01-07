@@ -138,3 +138,10 @@
      color:#F15B22;
      margin-top: 10px;
 }
+.footer{
+     width:1600px;
+     height:577px;
+     background-color: #151414;
+     display: flex;
+     justify-content: space-between;
+}
