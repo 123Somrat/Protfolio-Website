@@ -81,3 +81,11 @@
      font-weight: 700px;
      font-size: 35px;
 }
+.my-plans{
+     width: 1141px;
+     height:300px;
+     display: flex;
+     align-items:baseline;
+     margin-left: 450px;
+     
+}
