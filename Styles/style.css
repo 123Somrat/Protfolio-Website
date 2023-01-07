@@ -145,3 +145,9 @@
      display: flex;
      justify-content: space-between;
 }
+.contact-info{
+     width:485px;
+     height:317px;
+     margin:129px 300px 130px 237px;
+     
+}
