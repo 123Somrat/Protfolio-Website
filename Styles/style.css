@@ -45,3 +45,12 @@
      background-position: center;
      margin:100px 0px 87px 277px;
 }
+.right{
+     width: 416px;
+     height:400px;
+     margin:330px 0px 30px 80px;
+     font-weight: 700px;
+     font-size: 40px;
+     line-height: 47px;
+     color:#151414
+}
