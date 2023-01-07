@@ -2,20 +2,20 @@
      padding:0px;
      margin:0px;
      font-family: 'Work Sans', sans-serif;
+     
 }
 .banner{
       background-image: url("../images/banner1.png");
       width: 1600px;
-      height:808px;
-      position:absolute
+      height:808px;    
 }
-.banner-details{
-     position:relative;
-     margin:192px 283px 388px 792px;
+.banner-details {
+     margin:0px 283px 388px 792px;
      font-weight: 700px;
      font-size: 65px;
      line-height: 76px;
      text-align: right;
+     align-items: baseline;
      color:#151414
 }
 .sub-banner{
