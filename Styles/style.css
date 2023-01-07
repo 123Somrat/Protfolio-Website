@@ -7,10 +7,17 @@
 .banner{
       background-image: url("../images/banner1.png");
       width: 1600px;
-      height:808px;    
+      height:808px;
+      background-size: cover;
+      background-position: center;
+      position: relative;
+     
 }
-.banner-details {
-     margin:0px 283px 388px 792px;
+
+
+.banner-details{
+     position: absolute;
+     margin:90px 283px 388px 792px;
      font-weight: 700px;
      font-size: 65px;
      line-height: 76px;
@@ -23,7 +30,8 @@
      font-size: 16px;
      line-height: 26px;
      text-align: right;
-     color: #444343
+     color: #444343;
+     
 }
 .btn{
      font-weight: 600px;
@@ -37,13 +45,14 @@
 .main{
      display: flex;
      align-items: center;
+    
 }
 .left{
      width: 550px;
      height:550px;
-     z-index:0;
+     border-radius: 50%;
      background-position: center;
-     margin:100px 0px 87px 277px;
+     margin:0px 0px 87px 277px;
 }
 .right{
      width: 416px;
@@ -65,4 +74,10 @@
 .span{
      margin-right:10px;
      color:green
+}
+.para{
+     text-align: center;
+     margin-top:200px;
+     font-weight: 700px;
+     font-size: 35px;
 }
