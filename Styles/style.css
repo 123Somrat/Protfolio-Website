@@ -38,3 +38,10 @@
      display: flex;
      align-items: center;
 }
+.left{
+     width: 550px;
+     height:550px;
+     z-index:0;
+     background-position: center;
+     margin:100px 0px 87px 277px;
+}
